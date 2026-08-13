@@ -1,6 +1,8 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Federico Bulfari 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in game development, artificial intelligence, and computer vision.
+### 🎓 M.Sc. Computing Engineering Student at Politecnico di Milano
+
+I'm a passionate software developer with a strong interest in robotics, artificial intelligence, and computer vision. I love building things from scratch and exploring new technologies.
 
 ## 🛠 Languages & Technologies
 
@@ -23,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 🚀 Featured Projects
 
-*   ⏳ **RPG Isometric Game:** An isometric role-playing game based on time mechanics.
 *   🧠 **Inference Custom AI Model:** Inference engine and implementation for a custom AI model.
+*   ⏳ **RPG Isometric Game:** An isometric role-playing game based on time mechanics.
 *   💻 **Home Server on old Thinkpad T60:** Setup of a home server by repurposing an old Thinkpad T60 laptop.
 *   🖐️ **Hand Gesture Control:** Webcam integration for hand gesture control of the computer via computer vision.
 
