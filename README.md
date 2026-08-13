@@ -1,6 +1,6 @@
 # Hi, I'm Federico Bulfari 👋
 
-### 🎓 M.Sc. Computing Engineering Student at Politecnico di Milano
+### 🎓 M.Sc. Computer Science Engineering Student at Politecnico di Milano
 
 I'm a passionate C.S. Engineer with a strong interest in robotics, artificial intelligence, and computer vision. I love building things from scratch and exploring new technologies.
 
